@@ -1,0 +1,214 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 20462 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/lyles/Desktop/Patient Fitness
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63892
+Successfully changed project path to: C:/Users/lyles/Desktop/Patient Fitness
+C:/Users/lyles/Desktop/Patient Fitness
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 68.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/lyles/Desktop/Patient Fitness/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56140
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004495 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.995 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001768 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.731 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.5 MB.
+System memory in use after: 84.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 2.965400 ms (FindLiveObjects: 0.442100 ms CreateObjectMapping: 0.099800 ms MarkObjects: 2.231500 ms  DeleteObjects: 0.190700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Exercise Videos/Exercise Library Climbers.mp4
+  artifactKey: Guid(f4e695725cb465d4cbb1c486e81c4978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library Climbers.mp4 using Guid(f4e695725cb465d4cbb1c486e81c4978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076cdbc26b879772d60db5e28b8c865f') in 0.089287 seconds
+  Import took 0.093145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Exercise Videos
+  artifactKey: Guid(97549480fca585d49a1f31f0dd32b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos using Guid(97549480fca585d49a1f31f0dd32b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395666ba9a988b6a5b537d5e09af90b3') in 0.018304 seconds
+  Import took 0.023399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Exercise Videos/Exercise Library Lunges.mp4
+  artifactKey: Guid(349232bfc78ba0f48acf97465416ce41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library Lunges.mp4 using Guid(349232bfc78ba0f48acf97465416ce41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8201ee03f58612da33a3627024be0b26') in 0.023237 seconds
+  Import took 0.027180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Exercise Videos/Exercise Library Plank Jump-Ins.mp4
+  artifactKey: Guid(28a1f416f9da1cf4d8983e5d59f0066c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library Plank Jump-Ins.mp4 using Guid(28a1f416f9da1cf4d8983e5d59f0066c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73877505be5a089e9c2209121b1602b9') in 0.011841 seconds
+  Import took 0.015937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Exercise Videos/Exercise Library Push-Ups.mp4
+  artifactKey: Guid(c69da6163412c734db5c8059e730edec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library Push-Ups.mp4 using Guid(c69da6163412c734db5c8059e730edec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0c195920919670b7c9e18c62add89c') in 0.011072 seconds
+  Import took 0.014508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Exercise Videos/Exercise Library Jumping Jacks v2.mp4
+  artifactKey: Guid(6df3e576c032a5c43a7c36d30c2be2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library Jumping Jacks v2.mp4 using Guid(6df3e576c032a5c43a7c36d30c2be2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e59b7d851d2a3630d8c8d256cc8ec80') in 0.011769 seconds
+  Import took 0.015319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Exercise Videos/Exercise Library High Knees.mp4
+  artifactKey: Guid(435a9a1e2cbfc9b4abfdfaf322f4fbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library High Knees.mp4 using Guid(435a9a1e2cbfc9b4abfdfaf322f4fbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bacad50f35c8d57ff7808e2c22c9bd9') in 0.010673 seconds
+  Import took 0.014172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Exercise Videos/Exercise Library Squats.mp4
+  artifactKey: Guid(24e29999b45bb3e4fa92aa6cabe650ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Exercise Videos/Exercise Library Squats.mp4 using Guid(24e29999b45bb3e4fa92aa6cabe650ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8bafb228a98910d2103c45e166f5580') in 0.010626 seconds
+  Import took 0.014330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.041812 seconds.
+  path: Assets/Images/Exercise Room.png
+  artifactKey: Guid(1f3a03c14d1c2d540ad0b0de21c6365a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Exercise Room.png using Guid(1f3a03c14d1c2d540ad0b0de21c6365a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb12d913c1c83f5b463529a00fd20d75') in 0.124738 seconds
+  Import took 0.128694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Images/Workout.jpg
+  artifactKey: Guid(e71a0591aa6cd46428b7a08c5c8b723f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Workout.jpg using Guid(e71a0591aa6cd46428b7a08c5c8b723f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91227db8faa39a4e1fe64a799d785a67') in 0.042837 seconds
+  Import took 0.046269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.264481 seconds.
+  path: Assets/Images/Warmups
+  artifactKey: Guid(fd889b915d7065b4e93d01c6ca0b8c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups using Guid(fd889b915d7065b4e93d01c6ca0b8c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353c0c83a354770e8b7e4f842c93a887') in 0.010008 seconds
+  Import took 0.013838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.961383 seconds.
+  path: Assets/Images/Warmups/2 Minute Warmup.jpg
+  artifactKey: Guid(cd98f63cbdea3f9488855261bf4f817c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups/2 Minute Warmup.jpg using Guid(cd98f63cbdea3f9488855261bf4f817c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84027175890e3979a7bed6732f6aca05') in 0.050639 seconds
+  Import took 0.054525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Images/Warmups/Fighter's Warmup.jpg
+  artifactKey: Guid(9a6fd715b694b8948a5c3240316925a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups/Fighter's Warmup.jpg using Guid(9a6fd715b694b8948a5c3240316925a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5108315833c7089548ffd6925863ab') in 0.031858 seconds
+  Import took 0.035335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Images/Warmups/Classic Warmup.jpg
+  artifactKey: Guid(15374c01b70eb7c42b52d7d394616e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups/Classic Warmup.jpg using Guid(15374c01b70eb7c42b52d7d394616e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e49854576b8a4f186e7b5905c9b087e') in 0.043792 seconds
+  Import took 0.047620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Images/Warmups/4 Minute Warmup.jpg
+  artifactKey: Guid(2b3ac7e4dd55599418bf81db59f2e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups/4 Minute Warmup.jpg using Guid(2b3ac7e4dd55599418bf81db59f2e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f750796f08af9b02285048ae0d08dea7') in 0.033059 seconds
+  Import took 0.036719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Images/Warmups/Quick Warmup.jpg
+  artifactKey: Guid(65f9856bace4de6428bbf7126b79860b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups/Quick Warmup.jpg using Guid(65f9856bace4de6428bbf7126b79860b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63fed69d0a617cb3cfb3b761cece077') in 0.031894 seconds
+  Import took 0.035474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Images/Warmups/Universal Warmup.jpg
+  artifactKey: Guid(70fef71c7c850e94abceb6eab6ceccb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Warmups/Universal Warmup.jpg using Guid(70fef71c7c850e94abceb6eab6ceccb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9494c3b82ceec417dfdd07314c5829ac') in 0.031624 seconds
+  Import took 0.035221 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
