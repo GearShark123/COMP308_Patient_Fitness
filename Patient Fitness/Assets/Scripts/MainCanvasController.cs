@@ -11,7 +11,7 @@ public class MainCanvasController : MonoBehaviour
     public AudioClip actionSquadAudioClip, cartelTerritoryAudioClip, dayToNightAudioClip, grooveOverloadAudioClip, nightCallAudioClip, onVacationAudioClip,
         patrolDutyAudioClip, ReadyToRollAudioClip, StakeoutAudioClip, toHappyEndsAudioClip, trainingDayMontageAudioClip, wordOnTheStreetAudioClip;
 
-    public GameObject startButton, warmupsButton, reasons10Button, reasons50Button;
+    public GameObject startButton, warmupsButton, reasons10Button, reasons50Button, exitButton;
     public GameObject minute2WarmupButton, minute4WarmupButton, classicWarmupButton, fightersWarmupButton, quickWarmupButton, universalWarmupButton, backButton;
     public GameObject climbersButton, highKneesButton, jumpingJacksButton, lungesButton, plankJumpInsButton, pushUpsButton, squatsButton, finishButton;
 
@@ -42,6 +42,7 @@ public class MainCanvasController : MonoBehaviour
             SelectMusic(random.Next(1, 13));
         }
     }
+
 
     public void SelectMusic(int i)
     {
@@ -107,6 +108,9 @@ public class MainCanvasController : MonoBehaviour
         }
     }
 
+
+    // Main Menu
+
     public void StartButton()
     {
         System.Random random = new System.Random();
@@ -115,6 +119,7 @@ public class MainCanvasController : MonoBehaviour
         warmupsButton.SetActive(false);
         reasons10Button.SetActive(false);
         reasons50Button.SetActive(false);
+        exitButton.SetActive(false);
 
         climbersText.text = "Climbers: " + random.Next(5, 21); // creates a number between 5 and 20
         highKneesText.text = "High Knees: " + random.Next(5, 21);
@@ -133,9 +138,7 @@ public class MainCanvasController : MonoBehaviour
         squatsButton.SetActive(true);
         finishButton.SetActive(true);
     }
-
-
-    // Main Menu
+    
 
     public void WarmupsButton()
     {
@@ -143,6 +146,7 @@ public class MainCanvasController : MonoBehaviour
         warmupsButton.SetActive(false);
         reasons10Button.SetActive(false);
         reasons50Button.SetActive(false);
+        exitButton.SetActive(false);
 
         minute2WarmupButton.SetActive(true);
         minute4WarmupButton.SetActive(true);
@@ -155,19 +159,27 @@ public class MainCanvasController : MonoBehaviour
 
     public void Reasons10Button()
     {
+        exitButton.SetActive(false);
         reasonsCanvas.SetActive(true);
         image.GetComponent<Image>().sprite = reasons10;
     }
 
     public void Reasons50Button()
     {
+        exitButton.SetActive(false);
         reasonsCanvas.SetActive(true);
         image.GetComponent<Image>().sprite = reasons50;
     }
 
     public void CloseReasonsButton()
     {
+        exitButton.SetActive(true);
         reasonsCanvas.SetActive(false);
+    }
+
+    public void ExitButton()
+    {
+        Application.Quit();
     }
 
 
@@ -243,6 +255,7 @@ public class MainCanvasController : MonoBehaviour
         warmupsButton.SetActive(true);
         reasons10Button.SetActive(true);
         reasons50Button.SetActive(true);
+        exitButton.SetActive(true);
     }
 
 
@@ -303,5 +316,6 @@ public class MainCanvasController : MonoBehaviour
         warmupsButton.SetActive(true);
         reasons10Button.SetActive(true);
         reasons50Button.SetActive(true);
+        exitButton.SetActive(true);
     }
 }
