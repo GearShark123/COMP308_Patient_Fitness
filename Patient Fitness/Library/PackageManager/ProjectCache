@@ -1,19 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/lyles/Desktop/Patient Fitness/Packages/manifest.json
+    m_FilePath: C:/Users/lyles/Desktop/COMP308_Patient_Fitness/Patient Fitness/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637537237893569528
-    m_Hash: 2493206812
+      ticks: 637537261116241527
+    m_Hash: 2286989724
   m_LockFileStatus:
-    m_FilePath: C:/Users/lyles/Desktop/Patient Fitness/Packages/packages-lock.json
+    m_FilePath: C:/Users/lyles/Desktop/COMP308_Patient_Fitness/Patient Fitness/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637537238182164936
+      ticks: 637537261945874143
     m_Hash: 2548674612
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.4
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.2d.animation@5.0.4
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.2d.animation@5.0.4
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -94,6 +94,7 @@ m_PackageAssets:
         - 5.0.4
         - 6.0.0-pre.1
         - 6.0.0-pre.2
+        - 6.0.1
         compatible:
         - 5.0.4
         verified: 5.0.4
@@ -155,7 +156,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -193,6 +194,7 @@ m_PackageAssets:
         - 4.0.1
         - 5.0.0-pre.1
         - 5.0.0-pre.2
+        - 5.0.0
         compatible:
         - 4.0.1
         verified: 4.0.1
@@ -228,7 +230,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.2
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -277,6 +279,7 @@ m_PackageAssets:
         - 4.0.2
         - 5.0.0-pre.1
         - 5.0.0-pre.2
+        - 5.0.1
         compatible:
         - 4.0.2
         verified: 4.0.2
@@ -388,7 +391,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.1.1
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -452,6 +455,7 @@ m_PackageAssets:
         - 5.1.1
         - 6.0.0-pre.1
         - 6.0.0-pre.2
+        - 6.0.0
         compatible:
         - 5.1.1
         verified: 5.1.1
@@ -567,7 +571,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -662,7 +666,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -765,7 +769,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -846,7 +850,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -915,7 +919,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.22
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.test-framework@1.1.22
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.test-framework@1.1.22
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1004,7 +1008,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1155,7 +1159,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.timeline@1.4.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -3100,7 +3104,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3161,7 +3165,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3236,7 +3240,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.3
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.2d.common@4.0.3
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.2d.common@4.0.3
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3317,7 +3321,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.1
       source: 1
-      resolvedPath: C:\Users\lyles\Desktop\Patient Fitness\Library\PackageCache\com.unity.2d.path@4.0.1
+      resolvedPath: C:\Users\lyles\Desktop\COMP308_Patient_Fitness\Patient Fitness\Library\PackageCache\com.unity.2d.path@4.0.1
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3377,5 +3381,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/lyles/Desktop/Patient Fitness/Packages
+m_ProjectPath: C:/Users/lyles/Desktop/COMP308_Patient_Fitness/Patient Fitness/Packages
 m_EditorVersion: 2020.3.0f1 (c7b5465681fb)
